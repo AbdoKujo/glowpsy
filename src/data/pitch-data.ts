@@ -283,7 +283,7 @@ export const plans: {
         "Modifications de prix et de photos incluses",
       ],
       get: ["50 € par an", "Mes tresses, dans un cadre défini ensemble"],
-      note: "Après deux ans, vous aurez payé 150 €, mais la formule ne devient pas « à vie ».",
+      note: "Après trois ans, vous aurez payé 150 €, mais la formule ne devient pas « à vie ».",
       cta: "Choisir l'Annuel",
       message: "Bonjour Abdo ! Je choisis la formule Annuel (50 € par an) pour mon salon à {lieu}. On en parle ?",
     },
@@ -377,7 +377,7 @@ export const faq = {
       q: "Je veux payer juste 50 € ?",
       a: [
         "Oui, c'est possible. Mais 50 €, c'est pour un an : il faut renouveler chaque année pour garder le site en ligne. Les 150 €, c'est pour la vie.",
-        "Attention : après deux ans à 50 €, vous aurez payé 150 €, mais ça ne devient pas « à vie » pour autant.",
+        "Attention : après trois ans à 50 €, vous aurez payé 150 €, mais ça ne devient pas « à vie » pour autant.",
       ],
     },
     {
