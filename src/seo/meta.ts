@@ -127,7 +127,7 @@ export function renderHeadTags(seo: Seo): string {
     `<meta property="og:image" content="${seo.image}" />`,
     `<meta property="og:image:width" content="1200" />`,
     `<meta property="og:image:height" content="630" />`,
-    `<meta property="og:image:alt" content="Votre salon afro en ligne, site web dès 50 €" />`,
+    `<meta property="og:image:alt" content="Votre présence en ligne : site web pour salon afro dès 50 €" />`,
     `<meta name="twitter:card" content="summary_large_image" />`,
     `<meta name="twitter:title" content="${esc(seo.title)}" />`,
     `<meta name="twitter:description" content="${esc(seo.description)}" />`,

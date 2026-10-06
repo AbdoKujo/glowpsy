@@ -16,24 +16,16 @@ export default function PitchHero() {
   const lieu = useLieu();
   return (
     <div id="top" className="w-full max-w-7xl mx-auto px-8 md:px-12 pt-28 lg:pt-32 pb-16">
-      {/* Row 1: Eyebrow | Audience */}
-      <div className="flex flex-row justify-between items-center gap-4 md:gap-8 mb-6 md:mb-8">
+      {/* Row 1: Eyebrow + link to the pricing */}
+      <div className="flex flex-row items-center gap-4 md:gap-8 mb-6 md:mb-8">
         <motion.div
           initial={{ opacity: 0, x: -20 }}
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.6, delay: 0.1 }}
-          className="flex flex-col text-xs md:text-base text-orange text-left font-['Rubik']"
+          className="flex items-center gap-2.5 text-xs md:text-base text-orange font-['Rubik']"
         >
-          <div>{pitchInfo.eyebrow}</div>
-        </motion.div>
-
-        <motion.div
-          initial={{ opacity: 0, x: 20 }}
-          animate={{ opacity: 1, x: 0 }}
-          transition={{ duration: 0.6, delay: 0.2 }}
-          className="flex flex-col text-xs md:text-base text-orange text-right font-['Rubik']"
-        >
-          <div>{withLieu(pitchInfo.audience, lieu)}</div>
+          <span>{pitchInfo.eyebrow}</span>
+          <FaqLink section="formules" className="text-orange" />
         </motion.div>
       </div>
 

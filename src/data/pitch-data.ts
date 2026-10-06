@@ -18,7 +18,7 @@ export const contact = {
 
 export const nav = {
   brand: "Abdo",
-  brandTag: "sites pour salons",
+  brandTag: "étudiant ingénieur",
   links: [
     { id: "echange", label: "L'offre" },
     { id: "constat", label: "Le constat" },
@@ -33,9 +33,8 @@ export const nav = {
 
 export const pitchInfo = {
   eyebrow: "Proposition de collaboration",
-  audience: "Salon afro à {lieu}",
   location: "{lieu}, {region}",
-  headline1: "VOTRE SALON",
+  headline1: "VOTRE PRÉSENCE",
   headline2: "EN LIGNE",
   headline3: "À PARTIR DE 50 €",
   whyNotZero: "Pourquoi pas 0 ?",
