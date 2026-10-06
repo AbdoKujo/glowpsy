@@ -1,0 +1,29 @@
+# Glowpsy
+
+> Glowpsy (glowpsy.com) : création de sites web pour salons afro et de tresses autour d'Épinay-sur-Seine et Saint-Denis (Villetaneuse, Pierrefitte-sur-Seine, Stains, L'Île-Saint-Denis, Villeneuve-la-Garenne, Deuil-la-Barre, Enghien-les-Bains, Argenteuil, Aubervilliers) et à Paris, dans les quartiers des salons afro : Château-Rouge et Barbès (18e), Château-d'Eau et Strasbourg-Saint-Denis (10e). Proposé par Abdo, développeur web et étudiant en ingénierie de l'intelligence artificielle.
+
+Chaque site comprend : design sur mesure (services, tarifs, photos, horaires), référencement Google (SEO), configuration pour être lisible et recommandé par les assistants IA (ChatGPT, Gemini…), prise de rendez-vous par formulaire ou WhatsApp. Une première version est présentée avant tout paiement, sans engagement.
+
+Le principe est un échange : le salon reçoit un site, Abdo reçoit des tresses, en plus d'un prix réduit.
+
+## Formules
+
+- Échange : 0 €, places limitées, en échange de tresses jusqu'à 3 fois par mois.
+- Annuel : 50 € par an.
+- Standard : 150 €, à vie, paiement en une ou deux fois ; modifications de prix et de photos gratuites.
+- Sur mesure : 150 à 400 € selon les options (design plus poussé, galerie, plusieurs langues, réservation avancée).
+- Application complète : à partir de 1 400 €, sur devis.
+
+## Contact
+
+- WhatsApp (préféré) : +33 7 58 00 27 82
+- Email : abdo.abiido@gmail.com
+
+## Pages
+
+- [Accueil (Paris)](https://glowpsy.com/)
+- [Épinay-sur-Seine](https://glowpsy.com/epinay-sur-seine)
+- [Saint-Denis](https://glowpsy.com/saint-denis)
+- [Château-Rouge, Paris 18e](https://glowpsy.com/chateau-rouge)
+- [Château-d'Eau, Paris 10e](https://glowpsy.com/chateau-d-eau)
+- [Plan du site](https://glowpsy.com/sitemap.xml)
